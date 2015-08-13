@@ -74,3 +74,5 @@ C:\Users\michel\Documents\GitHub\azure\TesteApp\TesteApp\bin\Microsoft.Owin.Secu
 C:\Users\michel\Documents\GitHub\azure\TesteApp\TesteApp\obj\Debug\TesteApp.csprojResolveAssemblyReference.cache
 C:\Users\michel\Documents\GitHub\azure\TesteApp\TesteApp\obj\Debug\TesteApp.dll
 C:\Users\michel\Documents\GitHub\azure\TesteApp\TesteApp\obj\Debug\TesteApp.pdb
+C:\Users\michel\Documents\GitHub\azure\TesteApp\TesteApp\bin\MySql.Data.dll
+C:\Users\michel\Documents\GitHub\azure\TesteApp\TesteApp\bin\MySql.Data.Entity.EF6.dll
